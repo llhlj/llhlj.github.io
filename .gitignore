@@ -1,18 +1,21 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# hidden files
+.*
+!.git*
+!.editorconfig
+!.nojekyll
+!.travis.yml
+!.husky
+!.commitlintrc.json
+!.versionrc.json
 
-# Other files and folders
-.settings/
+# bundler cache
+_site
+vendor
+Gemfile.lock
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# rubygem
+*.gem
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# npm dependencies
+node_modules
+package-lock.json
