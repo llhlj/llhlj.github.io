@@ -200,8 +200,8 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-plugins:
-  - jekyll-admin
+# plugins:
+#   - jekyll-admin
 
 # jekyll_admin:
 #   hidden_links:
