@@ -200,7 +200,16 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-# plugins:
-#   - jekyll-admin
+plugins:
+  - jekyll-admin
+
+# jekyll_admin:
+#   hidden_links:
+#     - posts
+#     - pages
+#     - staticfiles
+#     - datafiles
+#     - configuration
+#   homepage: "pages"
 
 ignore_theme_config: true
