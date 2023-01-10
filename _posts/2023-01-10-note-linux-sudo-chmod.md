@@ -13,9 +13,9 @@ summary:
 ```
 /etc/sudoers/etc/sudoers.d/
 ```
-note:
-	1. do not edit sudoers file directly, use `visudo`
-	2. do not edit `/etc/sudoers`, add file to `/etc/sudoers.d/`, and edit with `visudo`
+note:  
+	1. do not edit sudoers file directly, use `visudo`  
+	2. do not edit `/etc/sudoers`, add file to `/etc/sudoers.d/`, and edit with `visudo`  
 
 ##### edit /etc/sudoers.d/any_file_name_you_like
 visudo /etc/sudoers.d/any_file_name_you_like
