@@ -1,6 +1,6 @@
 ---
-layout: 张在社区服务中心的讲话文本
-title: 
+layout: post
+title: 张在社区服务中心的讲话文本
 date: 2023-01-04 15:08
 category: 
 author: 

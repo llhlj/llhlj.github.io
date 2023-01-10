@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [note] linux privilege, sudo, chmod
+title: linux privilege, sudo, chmod
 date: 2023-01-10 16:37
 category: 
 author: 
